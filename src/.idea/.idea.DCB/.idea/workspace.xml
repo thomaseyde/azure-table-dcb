@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd6e5e3b-dd8a-48ec-91c7-2e339082633c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="define-table-interface" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "thomaseyde"
+  }
+}]]></component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="Add Core project" />
+        <option name="rewordedMessage" value="Add core project" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="2294f802a98d1de217a4fe42818524b3bc9ca732" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thomaseyde/azure-table-dcb.git",
+    "accountId": "33374248-e123-4213-88eb-750f10d495c5"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="37t2kO3dPujokF2kb5foSoFvq5Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "define-table-interface",
+    "settings.editor.selected.configurable": "RiderCSharpLiveTemplatesSettingsId",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd6e5e3b-dd8a-48ec-91c7-2e339082633c" name="Changes" comment="" />
+      <created>1767708188355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767708188355</updated>
+      <workItem from="1767708189547" duration="7772000" />
+    </task>
+    <task id="LOCAL-00001" summary="Define interface">
+      <option name="closed" value="true" />
+      <created>1767720106419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767720106419</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IDE settings">
+      <option name="closed" value="true" />
+      <created>1767720118759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767720118759</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implement logic operations">
+      <option name="closed" value="true" />
+      <created>1767723643688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767723643688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implement logic operations">
+      <option name="closed" value="true" />
+      <created>1767724302906</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724302906</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implement simple table operations">
+      <option name="closed" value="true" />
+      <created>1767724521747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724521747</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add test project">
+      <option name="closed" value="true" />
+      <created>1767724759481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724759481</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add core project">
+      <option name="closed" value="true" />
+      <created>1767724767827</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724767827</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Define simplified table interface">
+      <option name="closed" value="true" />
+      <created>1767724888704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724888704</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Define simplified table interface">
+      <option name="closed" value="true" />
+      <created>1767724918339</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724918339</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Define simplified table interface">
+      <option name="closed" value="true" />
+      <created>1767724934909</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724934909</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Define simplified table interface">
+      <option name="closed" value="true" />
+      <created>1767724977542</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724977542</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Implement stubbed client">
+      <option name="closed" value="true" />
+      <created>1767724995519</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767724995519</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Implement table client">
+      <option name="closed" value="true" />
+      <created>1767725005724</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767725005724</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Define interface" />
+    <MESSAGE value="IDE settings" />
+    <MESSAGE value="Implement logic operations" />
+    <MESSAGE value="Implement simple table operations" />
+    <MESSAGE value="add test project" />
+    <MESSAGE value="add core project" />
+    <MESSAGE value="Define simplified table interface" />
+    <MESSAGE value="Implement stubbed client" />
+    <MESSAGE value="Implement table client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement table client" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
